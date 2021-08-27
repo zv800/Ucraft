@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 27 Aug 2021 16:20:31 at https://www.simondev.io/tutorials/Minecraft2/demo/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.simondev.io/tutorials/Minecraft2/demo/ -O1 "C:\My Web Sites\https___www.simondev.io_tutorials_Minecraft2_demo_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:20:32	Warning: 	Moved Permanently for https://www.simondev.io/robots.txt
+16:20:32	Warning: 	File has moved from https://www.simondev.io/robots.txt to /robots.txt/
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 seconds : 5 links scanned, 4 files written (5660 bytes overall) [5694 bytes received at 5694 bytes/sec], 4060 bytes transferred using HTTP compression in 2 files, ratio 36%, 2.5 requests per connection
+(No errors, 2 warnings, 0 messages)
